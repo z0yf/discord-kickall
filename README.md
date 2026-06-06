@@ -9,5 +9,5 @@ pkg install python
 ```
 pip install websocket-client requests
 
-python bot.py
+python kickall.py
 ```
