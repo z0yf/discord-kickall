@@ -9,6 +9,8 @@
 ```
 ## _This system will only work if you have Kick permission on the server_
 
+## TIP - USE YOUR ALT ID DIDN'T USE YOUR MAIN ACCOUNT  👍🏻
+
 ## INSTALL PYTHON FIRST 
 
 ```
