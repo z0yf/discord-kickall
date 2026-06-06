@@ -1,2 +1,3 @@
-# discord-kickall
-clean your server with this 
+# INSTALL FIRST
+pip install websocket-client requests
+python bot.py
