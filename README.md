@@ -14,7 +14,7 @@ python bot.py
 ## BOT CMDS! 
 ```
 !kickall
-!kickall 123456789876543 # ---------- PUT HERE SERVER ID ----------
+!kickall 123456789876543  ---------- PUT SERVER ID HERE ----------
 ```
 ## READ THIS WARNING BEFORE USING THIS
 ```
