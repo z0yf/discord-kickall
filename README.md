@@ -11,6 +11,11 @@ pip install websocket-client requests
 
 python bot.py
 ```
+## BOT CMDS! 
+```
+!kickall
+!kickall 123456789876543 # ---------- PUT HERE SERVER ID ----------
+```
 ## READ THIS WARNING BEFORE USING THIS
 ```
 > > [!WARNING]
